@@ -1,5 +1,5 @@
 # livro-receitas
 Meu livro de receitas
 
-- Strogonoff
+- Strogonoff :chicken:	
 - Pavê
